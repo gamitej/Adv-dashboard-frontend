@@ -1,5 +1,6 @@
-import DashboardBox from "@/components/DashboardBox";
 import { useGetKpisQuery } from "@/state/api";
+// comp
+import DashboardBox from "@/components/DashboardBox";
 
 const Row1 = () => {
   const api = useGetKpisQuery();
