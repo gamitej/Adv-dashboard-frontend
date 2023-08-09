@@ -1,4 +1,4 @@
-## New Ts project
+## Advance Dashboard ( React+vite+ts)
 
 ## Tech Stack :-
 
